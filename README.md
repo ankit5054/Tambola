@@ -13,7 +13,7 @@ To build run
 nom run build
 </code>
 
-{
+<!-- {
     "email":"abcdef@gmail.com",
     "password":"abcdef"
-}
+} -->
