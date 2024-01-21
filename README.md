@@ -16,11 +16,11 @@ To start build, run following command
 npm run start:build
 </code>
 
-Step 7: Import a collection in postman using the following link
+Step 7: Import a collection in postman using the following link<br>
 <i>https://api.postman.com/collections/29024580-fefebf99-7474-4dcb-be43-b1050b3abd17?access_key=PMAT-01HMPHDW9NZ0XMSQ4QKRZSQ8CX</i>
 
-Step 8: Do signup, save creds
+Step 8: Do signup, save creds<br>
 
-Step 9: DO signin,copy key it is valid for 1 hour only
+Step 9: DO signin,copy key it is valid for 1 hour only<br>
 
 Step 10: Pass the copied key in authorization tab in postman as bearer token and use it to generate or get tickets.
