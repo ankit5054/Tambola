@@ -33,7 +33,7 @@ export async function Signin(req: any, res: any) {
     },
   });
 
-  if (rwes) {
+  if (rwes && req.body.password === cryptr.decrypt(rwes.password)) {
     let key = jwt.sign(
       {
         email: req?.body?.email,
